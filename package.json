@@ -1,0 +1,24 @@
+{
+  "name": "javascript-test-package",
+  "version": "0.0.1",
+  "description": "Javascript test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejosandu/javascript-test-package.git"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "package"
+  ],
+  "author": "Alejandro Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejosandu/javascript-test-package/issues"
+  },
+  "homepage": "https://github.com/alejosandu/javascript-test-package#readme"
+}
